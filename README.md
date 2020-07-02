@@ -1,2 +1,0 @@
-# HotelProject
-Hotel Reservation App
